@@ -28,7 +28,7 @@ Make sure you have the following installed:
 1. Clone the repository:
     ```bash
     git clone https://github.com/cynegeirus/docker-redis.git
-    cd redis-docker-compose
+    cd docker-redis
     ```
 
 2. Update the password in `docker-compose.yml`:
